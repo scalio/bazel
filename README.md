@@ -13,7 +13,7 @@
 - [Scalio-Bazel Dotnet-Core Starter](https://scal.io/work/bazel-dotnet-core)
 - [Scalio-Bazel Android-Java Starter](https://scal.io/work/bazel-android-java)
 - [Scalio-Bazel Android-Kotlin Starter](https://scal.io/work/bazel-android-kotlin)
-<br><br>
+<br /><br />
 
 ## About Scalio
 <p>
