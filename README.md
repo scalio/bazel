@@ -1,4 +1,4 @@
-<!--![Bazel at Scalio](assets/BazelAtScalioCrop.jpg)-->
+{/*![Bazel at Scalio](assets/BazelAtScalioCrop.jpg)*/}
 ![Bazel at Scalio](https://raw.githubusercontent.com/scalio/bazel/master/assets/bazel-at-scalio.svg?sanitize=true)
 
 # Bazel Overview
